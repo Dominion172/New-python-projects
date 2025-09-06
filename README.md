@@ -38,8 +38,10 @@ dna_analyzer/
 - 🌐 Web version using Flask or Streamlit
 - 💾 Save results as a text/CSV file
 
-🤝 Contributing
+🤝 Contributing:
+
 Contributions are welcomed! 🎉
+
 - Fork the repo
 - Create a new branch (feature-new-analysis)
 - Commit your changes
