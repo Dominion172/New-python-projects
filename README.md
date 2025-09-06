@@ -47,3 +47,26 @@ Contributions are welcomed! 🎉
 - Commit your changes
 - Open a Pull Request
 You can also open issues to suggest improvements or report bugs.
+
+
+🕹️ Text-Based Adventure Game (THE Great tomb of naserik)
+
+A Python-based adventure game where players explore rooms, face enemies, and use items to survive. Built with **Object-Oriented Programming (OOP)** to make the game modular, expandable, and fun to play.
+
+
+
+## 🚀 Features
+- 🔑 **Room Navigation** – Explore different rooms with unique challenges.  
+- 🛡️ **Inventory System** – Collect, store, and use items to defeat enemies.  
+- 👾 **Enemies & Combat** – Battle monsters with strategy and resources.  
+- 🎯 **Command Center** – Central hub for executing player actions.  
+- 🧩 **Expandable Design** – Add new rooms, enemies, and storylines easily.  
+
+
+
+## 🛠️ Tech Stack
+- **Language**: Python 3.x  
+- **Paradigm**: Object-Oriented Programming (OOP)  
+- **Libraries**: Standard Python libraries only (lightweight and portable)  
+
+
